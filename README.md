@@ -20,12 +20,12 @@ Although there are the more advanced SDRs, in this set of tutorials we will use 
 
 Both Windows and desktop Linux setups are covered, however because Linux distributions use different package managers and package names, readers will need to adapt the Linux tutorials to their own systems. 
 
-| Chapter                      | Windows                                                      | Desktop Linux                                                |
-| ---------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Installing basic software    | [SDR#]() and [USB drivers]()                                 | [SDR++]() or [gqrx]()                                        |
-| Essential controls           | [SDR#]()                                                     | [SDR++]() or [gqrx]()                                        |
-| Recording audio and baseband | [SDR#]()                                                     | [SDR++]() or [gqrx]()                                        |
-| Making a V-dipole antenna    | —                                                            | —                                                            |
-| APT from NOAA 15, 18, and 19 | [VB Cable]() and [WXtoImg]()                                 | [noaa-apt](https://noaa-apt.mbernardi.com.ar/) or [Xerbo/aptdec](https://github.com/Xerbo/aptdec) |
-| LRPT from Meteor-M N2        | [Meteor Demodulator](), [M2 LRPT Decoder](), and [SmoothMeteor]() | [meteor_demod](https://github.com/dbdexter-dev/meteor_demod), [meteor_decode](https://github.com/dbdexter-dev/meteor_decode), and [meteor_rectifyCPP](https://github.com/TGYK/meteor_rectifyCPP) |
+| Chapter                       | Windows                                                      | Desktop Linux                                                |
+| ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Installing basic software     | [SDR#]() and [USB drivers]()                                 | [SDR++]() or [gqrx]()                                        |
+| Essential controls            | [SDR#]()                                                     | [SDR++]() or [gqrx]()                                        |
+| Recording audio and baseband  | [SDR#]()                                                     | [SDR++]() or [gqrx]()                                        |
+| [Making a V-dipole antenna]() | —                                                            | —                                                            |
+| APT from NOAA 15, 18, and 19  | [VB Cable]() and [WXtoImg]()                                 | [noaa-apt](https://noaa-apt.mbernardi.com.ar/) or [Xerbo/aptdec](https://github.com/Xerbo/aptdec) |
+| LRPT from Meteor-M N2         | [Meteor Demodulator](), [M2 LRPT Decoder](), and [SmoothMeteor]() | [meteor_demod](https://github.com/dbdexter-dev/meteor_demod), [meteor_decode](https://github.com/dbdexter-dev/meteor_decode), and [meteor_rectifyCPP](https://github.com/TGYK/meteor_rectifyCPP) |
 
