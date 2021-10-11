@@ -22,11 +22,10 @@ Both Windows and desktop Linux setups are covered, however because Linux distrib
 
 | Chapter                       | Windows                                                      | Desktop Linux                                                |
 | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Installing basic software     | [USB drivers]() and then [SDR#]()                            | [SDR++]() or [gqrx]()                                        |
+| Installing basic software     | [USB drivers](installing_basic_software_win_drivers.md) and then [SDR#]() | [SDR++]() or [gqrx]()                                        |
 | Essential controls            | [SDR#]()                                                     | [SDR++]() or [gqrx]()                                        |
 | Recording audio and baseband  | [SDR#]()                                                     | [SDR++]() or [gqrx]()                                        |
 | [Making a V-dipole antenna]() | —                                                            | —                                                            |
 | APT from NOAA 15, 18, and 19  | [VB Cable]() and then [WXtoImg]()                            | [noaa-apt](https://noaa-apt.mbernardi.com.ar/) or [Xerbo/aptdec](https://github.com/Xerbo/aptdec) |
 | LRPT from Meteor-M N2         | [Meteor Demodulator](), [M2 LRPT Decoder](), and [SmoothMeteor]() | [meteor_demod](https://github.com/dbdexter-dev/meteor_demod), [meteor_decode](https://github.com/dbdexter-dev/meteor_decode), and [meteor_rectifyCPP](https://github.com/TGYK/meteor_rectifyCPP) |
-
 
