@@ -22,7 +22,7 @@ Both Windows and desktop Linux setups are covered, however because Linux distrib
 
 | Chapter                       | Windows                                                      | Desktop Linux                                                |
 | ----------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Installing basic software     | [USB drivers](installing_basic_software_win_drivers.md) and then [SDR#]() | [SDR++]() or [gqrx]()                                        |
+| Installing basic software     | [USB drivers](installing_basic_software_win_drivers.md) and then [SDR#](installing_basic_software_win_sdrsharp.md) | [SDR++]() or [gqrx]()                                        |
 | Essential controls            | [SDR#]()                                                     | [SDR++]() or [gqrx]()                                        |
 | Recording audio and baseband  | [SDR#]()                                                     | [SDR++]() or [gqrx]()                                        |
 | [Making a V-dipole antenna]() | —                                                            | —                                                            |
