@@ -14,7 +14,7 @@
 
     2. Set `Sample Format` to “8 Bit PCM”.
 
-        > The RTL-SDR produces 8-bit samples so it only wastes disk space to record samples with more bits. As an analogy, if you made a set of measurements with 2 decimal places, it wouldn’t help to write them down each with 4 decimal places.
+        > The RTL-SDR produces 8-bit samples so recording them with more than 8 bits only wastes disk space. As an analogy, if you had a set of measurements with 2 decimal places, it would be useless to write them down each with 4 d.p., as the additional 2 digits would always be 0.
 
     3. Click on `Record` to start recording. The button should turn into `Stop`.
 
