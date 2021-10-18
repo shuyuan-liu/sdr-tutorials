@@ -14,7 +14,7 @@ sudo apt install rtl-sdr
 
 ## Installing Gqrx
 
-Gqrx can be installed from a precompiled binary package in your Linux distribution’s software repository. On Ubuntu this con be done with
+Gqrx can be installed from a precompiled binary package in your Linux distribution’s software repository. On Ubuntu and Debian this can be done with
 
 ```
 sudo apt install gqrx
