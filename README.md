@@ -26,6 +26,7 @@ Both Windows and desktop Linux setups are covered, however because Linux distrib
 | Essential controls                                           | [SDR#]()                                                     | [SDR++]() or [gqrx]()                                        |
 | Recording audio and baseband                                 | [SDR#](recording_win.md)                                     | [SDR++]() or [gqrx]()                                        |
 | [Making a V-dipole antenna](https://lna4all.blogspot.com/2017/02/diy-137-mhz-wx-sat-v-dipole-antenna.html) | —                                                            | —                                                            |
-| APT from NOAA 15, 18, and 19                                 | [VB Cable]() and then [WXtoImg]()                            | [noaa-apt](https://noaa-apt.mbernardi.com.ar/) or [Xerbo/aptdec](https://github.com/Xerbo/aptdec) |
+| APT from NOAA 15, 18, and 19                                 | [VB Cable](https://vb-audio.com/Cable/index.htm) and then [WXtoImg](https://wxtoimgrestored.xyz/) | [noaa-apt](https://noaa-apt.mbernardi.com.ar/) or [Xerbo/aptdec](https://github.com/Xerbo/aptdec) |
 | LRPT from Meteor-M N2                                        | [Meteor Demodulator](), [M2 LRPT Decoder](), and [SmoothMeteor]() | [meteor_demod](https://github.com/dbdexter-dev/meteor_demod), [meteor_decode](https://github.com/dbdexter-dev/meteor_decode), and [meteor_rectifyCPP](https://github.com/TGYK/meteor_rectifyCPP) |
 
+ 
