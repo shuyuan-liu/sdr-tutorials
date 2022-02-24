@@ -1,5 +1,7 @@
 
 
+**Please note this repo is under (not-so-active-due-to-university) construction, and there are many incomplete pages and links. I might add indicators at some point to show the status of each page.**
+
 # Get Started Playing with Software Radio
 
 Software radios, or software-defined radios (SDRs) differ from traditional radios in that computer software is used to do most of the signal processing instead of hard-wired circuitry. This allows an SDR receiver or transmitter to be flexibly modified and new features easily tested and added without needing to change its hardware.
