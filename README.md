@@ -1,6 +1,4 @@
-
-
-**Please note this repo is under (not-so-active-due-to-university) construction, and there are many incomplete pages and links. I might add indicators at some point to show the status of each page.**
+**This repo has been archived as I don't see myself wanting to update it anytime soon.**
 
 # Get Started Playing with Software Radio
 
